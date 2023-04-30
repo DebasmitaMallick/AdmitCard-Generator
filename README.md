@@ -1,6 +1,6 @@
 # Hall Ticket Maker
 
-This project is a web application for generating hall tickets for exams. It uses React for the front-end and Node.js for the back-end.
+This project is a web application for generating admit card. It uses React for the front-end and Node.js for the back-end.
 
 ## Installation
 
@@ -25,10 +25,9 @@ The back-end server will start on port 5000, while the front-end server will sta
 
 This application has the following features:
 
-1. User authentication: Users can create an account, log in, and log out.
-2. Hall ticket generation: Users can enter exam details and generate a hall ticket.
-3. Hall ticket preview: Users can preview the hall ticket before downloading it.
-4. Hall ticket download: Users can download the generated hall ticket in PDF format.
+1. User data collection: Users can enter his/her details and on submit the data will get stored in the backend.
+2. Admit Card preview: Users can preview the admit card before downloading it.
+3. Admit Card download: Users can download the generated admit card in PDF format.
 
 ## Technologies
 
@@ -37,15 +36,7 @@ This project uses the following technologies:
 - React: A JavaScript library for building user interfaces.
 - Node.js: A JavaScript runtime for building server-side applications.
 - Express: A Node.js web application framework.
-- MongoDB: A NoSQL document database.
-- Mongoose: An object modeling tool for MongoDB.
-- PDFKit: A JavaScript PDF generation library.
-
-## Contributors
-
-- John Doe (johndoe@example.com)
-- Jane Smith (janesmith@example.com)
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+- MySQL: A SQL document database.
+- react-pdf/renderer: A react library for rendering PDF documents.
+- axios: A JavaScript library used to make HTTP requests.
+- formik: A React library for building forms.
