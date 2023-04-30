@@ -1,4 +1,4 @@
-# Hall Ticket Maker
+# Admit Card Generator using React.JS, Node.JS and MySQL
 
 This project is a web application for generating admit card. It uses React for the front-end and Node.js for the back-end.
 
