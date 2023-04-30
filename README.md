@@ -47,4 +47,4 @@ https://www.youtube.com/watch?v=g_8DeO4QfSQ
 
 ## Preview
 
-image.png
+![image](https://user-images.githubusercontent.com/67649413/235368073-3a69b4f1-452e-4ca5-a5b9-824472c6fde8.png)
