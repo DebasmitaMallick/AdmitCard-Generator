@@ -16,10 +16,10 @@ To install the project, follow these steps:
 
 To run the project, follow these steps:
 
-1. Navigate to the root directory of the project.
-2. Run `npm run dev` to start both the back-end and front-end servers.
-
-The back-end server will start on port 5000, while the front-end server will start on port 3000. You can access the application by navigating to `http://localhost:3000` in your web browser.
+1. Navigate to the backend directory.
+2. Run `npm start` to start the back-end server.
+3. Navigate to the client directory.
+4. Run `npm start` to start the front-end server.
 
 ## Features
 
