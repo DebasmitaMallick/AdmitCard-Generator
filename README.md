@@ -40,3 +40,11 @@ This project uses the following technologies:
 - react-pdf/renderer: A react library for rendering PDF documents.
 - axios: A JavaScript library used to make HTTP requests.
 - formik: A React library for building forms.
+
+## YouTube Video URL
+
+https://www.youtube.com/watch?v=g_8DeO4QfSQ
+
+## Preview
+
+image.png
